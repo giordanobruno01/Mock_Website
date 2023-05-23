@@ -1,0 +1,77 @@
+body {
+  padding-top: 250px;
+  padding-bottom: 250px;
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: center;
+}
+
+main {
+  display: inline;
+}
+footer {
+  padding-top: 20px;
+  color: black;
+  padding-bottom: 30px;
+  border-top: 1px solid black;
+  width: 100%;
+  display: inline-block;
+}
+a:hover {
+  color: red;
+}
+a {
+  color: black;
+}
+h1 {
+  font-size: 60px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#logo {
+  font-size: 120%;
+}
+#logo1 {
+  padding-bottom: 20px;
+  border-bottom: 1px solid black;
+}
+
+#col1 {
+  float: left;
+  width: 48%;
+  text-align: justify;
+}
+#col2 {
+  float: right;
+  width: 48%;
+  text-align: justify;
+}
+#rest {
+  float: left;
+  width: 100%;
+  padding-bottom: 10px;
+}
+#trans {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#here {
+  color: red;
+}
+#links {
+  margin-bottom: 100px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+#banners {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+#end {
+  text-align: justify;
+  border-top: 1px solid black;
+}
